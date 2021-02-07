@@ -1,0 +1,5 @@
+URxvt.transparent: true
+URxvt.shading: 12
+URxvt.foreground: orange
+URxvt.scrollBar: false
+URxvt.font: xft:dejavusansmono:pixelsize=12
