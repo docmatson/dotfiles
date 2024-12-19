@@ -16,7 +16,3 @@ _comp_options+=(globdots) #include hidden
 
 # alias
 alias ls='ls --color'
-
-# Plugins
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
